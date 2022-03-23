@@ -7,3 +7,5 @@ Pull from remote - git pull
 Check branch - git branch
 Create Branch - git branch <branchname>
 Switch Branch - git checkout <branchname>
+
+Carry Changes to new branch- git checkout -b <newbranchname>
