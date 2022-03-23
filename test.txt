@@ -1,4 +1,6 @@
-This is a test file for git.
-	
-This is additional test.
-this is changed in github remote editor.
+Initilize git - git init
+Clone repo - git clone
+Add file - git add filename
+Commit - git commit -m "commit messages"
+Push to remote repo - git push <remote ref>
+Pull from remote - git pull 
