@@ -4,3 +4,6 @@ Add file - git add filename
 Commit - git commit -m "commit messages"
 Push to remote repo - git push <remote ref>
 Pull from remote - git pull 
+Check branch - git branch
+Create Branch - git branch <branchname>
+Switch Branch - git checkout <branchname>
